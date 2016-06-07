@@ -1,0 +1,1 @@
+java -cp target/game-maven-0.1.0.jar main.java.controller.Client
